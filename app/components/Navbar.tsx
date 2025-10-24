@@ -4,6 +4,7 @@ const Navbar = () => {
   return (
     <>
    <nav className='h-14 w-full bg-amber-400'></nav> 
+   
     </>
   )
 }
