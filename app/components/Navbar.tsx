@@ -14,7 +14,6 @@ const Navbar = () => {
         <h1 className="text-2xl font-bold text-white cursor-pointer hover:text-gray-300 transition pl-4 md:pl-16">
           LuxureDetails
         </h1>
-
         <ul className="hidden md:flex gap-10 text-white font-medium">
           {["Services", "Pricing", "About", "Contact"].map((item) => (
             <li
