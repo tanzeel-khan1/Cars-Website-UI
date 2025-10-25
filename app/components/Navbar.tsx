@@ -11,6 +11,7 @@ const Navbar = () => {
         className="fixed top-0 left-0 z-50 h-14 w-full flex justify-between items-center 
         px-8 md:px-20 bg-black backdrop-blur-md shadow-lg transition-all duration-300"
       >
+        
         <h1 className="text-2xl font-bold text-white cursor-pointer hover:text-gray-300 transition pl-4 md:pl-16">
           LuxureDetails
         </h1>
