@@ -20,7 +20,7 @@ const Navbar = () => {
         px-8 md:px-20 bg-black backdrop-blur-md shadow-lg transition-all duration-300"
       >
         <Link href="/" className="text-2xl font-bold text-white cursor-pointer hover:text-gray-300 transition pl-1 md:pl-12">
-          LuxureDetails
+          LuxurDetails
         </Link>
 
         <ul className="hidden md:flex gap-10 text-white font-medium">
