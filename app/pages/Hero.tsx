@@ -48,7 +48,7 @@ const Hero = () => {
       </motion.h4>
 
       <motion.img
-        src="subtract.png"
+        src="Subtract.png"
         className="mt-20 md:h-110 h-50 w-full" 
         alt="Car"
         initial={{ opacity: 0, y: 80 }}
